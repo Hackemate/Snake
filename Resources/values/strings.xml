@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+  <string name="mode_ready">Snake\nPresione Arriba para iniciar.\n\nUse las flechas para controlar la serpiente.</string>
+  <string name="mode_pause">Pausa\nPresione Arriba para continuar.\n\nUse las flechas para controlar la serpiente.</string>
+  <string name="mode_lose_prefix">Game Over\nPuntos: </string>
+  <string name="mode_lose_suffix">\nPresione Arriba para Jugar</string>
+
+    <string name="snake_layout_text_text"></string>
+</resources>

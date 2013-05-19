@@ -1,4 +1,1 @@
-Snake
-=====
-
-A plain old Snake game based on a TileView.
+Juego Clasico de snake (Mono for Android)
